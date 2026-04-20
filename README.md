@@ -1,0 +1,1 @@
+## This is creditworthiness data set which have 1000 rows and 21 total columns where we apply binary classification condition of to back credit in the form of good and bad output.we will predict good or bad ouytcome on the base of 20 input columns of creditworthiness.
