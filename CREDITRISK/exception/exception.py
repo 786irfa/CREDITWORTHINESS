@@ -1,5 +1,5 @@
 import sys
-from CREDITRISK.logging import logger
+from CREDITRISK.app_logger import logger
 class CREDITRISKException(Exception):
     def _init_ (self,error_message,error_details:sys):
        self.errro_message=error_message

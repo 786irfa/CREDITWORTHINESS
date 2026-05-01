@@ -5,5 +5,3 @@ pymongo
 certifi
 mysql-connector-python
 scikit-learn
-
--e .

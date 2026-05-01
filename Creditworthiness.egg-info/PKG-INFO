@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: Creditworthiness
+Version: 0.0.1
+Summary: Credit risk prediction ML pipeline
+Author: Irfan
+Author-email: if476771@gmail.com
+Requires-Python: >=3.8
